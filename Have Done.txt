@@ -1,0 +1,56 @@
+0-Deggar
+1-sql Lite
+2-pagination
+3-pip
+4-MVVM MVP LIFEDATA
+5-Volley
+6-Video View
+7-Exo Player
+8-Glide
+9-RXJava
+10-Finger Print Auth
+11-Shared Elenment
+12-Motion layout
+13-downLoad Manager 
+14-DownLoader
+15-Youtube Extractor
+16-Image Editor 
+17-job service
+18-service
+19-intentService
+20-alarmManager
+21-jobscheduler
+22-FireBase Cloud Messaging 
+23-FireBase FireStore
+24-FireBase RealTime
+25-FireBase Storage
+26-GIT Consol
+27-GIT Hup
+28-Room
+29-Retrofit
+30-Dialogs
+31-Country Codes
+32-Sensors
+33-BroadCast Reciever
+34-Swipe Gestures
+35-Bound Service
+36-ForeGround Service
+37-Collapsing tool bar
+38-MediaRecorder
+39-GPS & Maps
+40-ContentProviders
+41-Multiple screen *
+42-QR Scanner & Generation
+43-Finger Print 
+44-Share Prefrences
+45-Tab Layout With and without View Pager
+46-Fragment Transfer Data
+47-Remote Service
+48-HttpURLConnection
+49-Animator
+50-Parcelable
+51-ROBO Guice
+52-OK HTTP
+53-
+
+
